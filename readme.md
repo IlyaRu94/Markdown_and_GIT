@@ -19,11 +19,11 @@ LICENSE: [MIT](./License.md)
 3. Команды ветвления и слияния:
     1. [git log](./Branching_and_merging_commands/log.md), или как посмотреть историю коммитов.
     2. [git checkout and git reset](./Branching_and_merging_commands/checkout_reset.md) или отмена подготовленных и неподготовленных изменений.
-    3. [git branch](./Branching_and_merging_commands/branch.md) - Основные операции с ветками.
+    3. [git branch](./Branching_and_merging_commands/branch.md) - основные операции с ветками.
     4. [git merge](./Branching_and_merging_commands/merge.md), или слияние двух веток.
 4. Команды совместной работы и обновления проектов:
     1. [git remote](./collaboration_and_updates_commands/remote.md), или работа с удаленным репозиторием.
-    2. [git push](./collaboration_and_updates_commands/push.md) - Вносим изменения в удаленный репозиторий.
+    2. [git push](./collaboration_and_updates_commands/push.md) - вносим изменения в удаленный репозиторий.
     3. [git pull](./collaboration_and_updates_commands/pull.md), или получение изменений из удаленного репозитория.
 
 ---
