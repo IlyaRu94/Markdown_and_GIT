@@ -37,4 +37,4 @@ git reset
 ```bash-
 git merge origin
 ```
-[<center>На главную страницу</center>](../readme.md)
+[<-На главную страницу](../readme.md)

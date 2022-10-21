@@ -18,4 +18,4 @@ git diff --staged
 ```bash-
 git diff Your_file.md
 ```
-[<center>На главную страницу</center>](../readme.md)
+[<-На главную страницу](../readme.md)

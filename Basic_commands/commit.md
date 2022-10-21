@@ -12,4 +12,4 @@ git commit -m "Your short summary about the commit"
 ```bash-
 git commit
 ```
-[<center>На главную страницу</center>](../readme.md)
+[<-На главную страницу](../readme.md)

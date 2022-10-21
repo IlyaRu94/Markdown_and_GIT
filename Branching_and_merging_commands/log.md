@@ -6,4 +6,4 @@
 ```bash-
 git log -p
 ```
-[<center>На главную страницу</center>](../readme.md)
+[<-На главную страницу](../readme.md)

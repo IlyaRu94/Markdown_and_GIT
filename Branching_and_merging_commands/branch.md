@@ -52,4 +52,5 @@ _Вышеуказанные команды удаляют только лока�
 git push origin --delete existing_branch_name
 ```
 [Подробнее о команде push](../collaboration_and_updates_commands/push.md) 
-[<center>На главную страницу</center>](../readme.md)
+
+[<-На главную страницу](../readme.md)

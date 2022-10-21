@@ -6,4 +6,4 @@
 ```bash-
 git status
 ```
-[<center>На главную страницу</center>](../readme.md)
+[<-На главную страницу](../readme.md)

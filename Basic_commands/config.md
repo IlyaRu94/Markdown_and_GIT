@@ -14,4 +14,4 @@ git config --global user.name "Ilya_Ru"
 ```bash
 git config --global user.email "your_email@domain.ru"
 ```
-[<center>На главную страницу</center>](../readme.md)
+[<-На главную страницу](../readme.md)

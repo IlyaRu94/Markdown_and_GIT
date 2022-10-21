@@ -12,4 +12,4 @@ git rm dirname/somefile.js
 ```bash-
 git rm dirname/*.html
 ```
-[<center>На главную страницу</center>](../readme.md)
+[<-На главную страницу](../readme.md)

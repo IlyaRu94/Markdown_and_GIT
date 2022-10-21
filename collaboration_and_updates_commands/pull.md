@@ -12,4 +12,4 @@ git pull
 ```bash-
 git pull --verbose
 ```
-[<center>На главную страницу</center>](../readme.md)
+[<-На главную страницу](../readme.md)

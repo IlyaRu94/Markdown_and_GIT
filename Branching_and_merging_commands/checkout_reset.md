@@ -18,4 +18,4 @@ git reset HEAD Your_file.md
 ```bash-
 git reset HEAD
 ```
-[<center>На главную страницу</center>](../readme.md)
+[<-На главную страницу](../readme.md)

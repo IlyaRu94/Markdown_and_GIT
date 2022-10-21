@@ -12,4 +12,4 @@ git show 1af17e73721dbe0c40011b82ed4bb1a7dbe3ce29
 ```bash
 git show 1af17e
 ```
-[<center>На главную страницу</center>](../readme.md)
+[<-На главную страницу](../readme.md)
